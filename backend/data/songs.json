@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": 1,
+        "tittle": "palermo",
+        "artist": "Benny Jamz & KESI",
+        "coverpath": "/covers/palermo.png",
+        "songpath": "/songs/Palermo.mp3"
+        
+    },
+        {
+        "id": 2,
+        "tittle": "BACK TO BUSINESS",
+        "artist": "BRANCO",
+        "coverpath": "/covers/BACK TO BUSINESS.png",
+        "songpath": "/songs/BACK TO BUSINESS.mp3"
+        
+    },    {
+        "id": 3,
+        "tittle": "palermo",
+        "artist": "Benny Jamz & KESI",
+        "coverpath": "/covers/palermo.png",
+        "songpath": "/songs/Palermo.mp3"
+        
+    },    {
+        "id": 4,
+        "tittle": "palermo",
+        "artist": "Benny Jamz & KESI",
+        "coverpath": "/covers/palermo.png",
+        "songpath": "/songs/Palermo.mp3"
+        
+    },    {
+        "id": 5,
+        "tittle": "palermo",
+        "artist": "Benny Jamz & KESI",
+        "coverpath": "/covers/palermo.png",
+        "songpath": "/songs/Palermo.mp3"
+        
+    },    {
+        "id": 6,
+        "tittle": "palermo",
+        "artist": "Benny Jamz & KESI",
+        "coverpath": "/covers/palermo.png",
+        "songpath": "/songs/Palermo.mp3"
+        
+    }
+]
